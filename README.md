@@ -22,4 +22,5 @@ I've worked with organisations including the Gates Foundation, FCDO, ISD, BBC Mo
 - [**multilingual-ner**](https://github.com/ay94/multilingual-ner) — Multilingual NER benchmarking and extraction toolkit
 - [**multilingual-mt**](https://github.com/ay94/multilingual-mt) — Multilingual MT evaluation toolkit
 
-→ Full project write-ups at [ay94.github.io](https://ay94.github.io)
+→ Full project write-ups at [ay94.github.io/#projects](https://ay94.github.io/#projects)
+→ Delivery methods & frameworks at [ay94.github.io/methods](https://ay94.github.io/methods/)
