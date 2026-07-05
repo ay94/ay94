@@ -12,10 +12,10 @@ I've worked with organisations including the Gates Foundation, FCDO, ISD, BBC Mo
 
 ### Featured
 
+- [**topic-modeling-recipes**](https://github.com/ay94/topic-modeling-recipes) — A practitioner's guide to unsupervised thematic analysis of large text corpora
+- [**multilingual-topic-modeling**](https://github.com/ay94/multilingual-topic-modeling) — Layered BERTopic toolkit with SetFit-guided cluster refinement
 - [**spike-review-analysis**](https://github.com/ay94/spike-review-analysis) — Topic modelling, theme mapping and a zero-shot correction layer for customer review analysis
 - [**contrastive-finetuning**](https://github.com/ay94/contrastive-finetuning) — Sentence-transformer fine-tuning with contrastive learning, 5-stage evaluation pipeline
-- [**multilingual-topic-modeling**](https://github.com/ay94/multilingual-topic-modeling) — Layered BERTopic toolkit with SetFit-guided cluster refinement
-- [**topic-modeling-recipes**](https://github.com/ay94/topic-modeling-recipes) — A practitioner's guide to unsupervised thematic analysis of large text corpora
 - [**semantic-knn**](https://github.com/ay94/semantic-knn) — ChromaDB-backed KNN classification for large-scale semantic cluster labelling
 - [**multilingual-ner**](https://github.com/ay94/multilingual-ner) — Multilingual NER benchmarking and extraction toolkit
 - [**multilingual-mt**](https://github.com/ay94/multilingual-mt) — Multilingual MT evaluation toolkit
