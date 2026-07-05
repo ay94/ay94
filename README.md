@@ -1,12 +1,10 @@
 # Ahmed Younes
 
-**AI Engineer • Data Scientist • NLP Researcher**
+**PhD in NLP | LLM Evaluation & AI Engineering | RAG & Semantic Search | Arabic & Multilingual AI**
 
-Navigating data into decisions.
+I build things, evaluate them, and care about getting it right — from raw unstructured text to intelligence that drives real decisions.
 
-I work with organisations to navigate their data challenges — from raw unstructured text to intelligence that drives real decisions. I work at the intersection of data science, natural language processing and engineering, combining research depth with hands-on building and strategic consultancy.
-
-I've worked with organisations including the Gates Foundation, FCDO, ISD, BBC Monitoring and Ofcom, and I guide professionals across 50+ organisations in applying AI and data science in practice.
+I've worked with organisations including the Gates Foundation, FCDO, ISD, BBC Monitoring, Ofcom, Emotech and AxessAll, and I guide professionals across 50+ organisations in applying AI and data science in practice.
 
 📍 Markfield, UK · ✉️ [ahmedy2501@gmail.com](mailto:ahmedy2501@gmail.com) · 🌐 [ay94.github.io](https://ay94.github.io)
 
